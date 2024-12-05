@@ -1,0 +1,12 @@
+# files
+.git
+*.log
+*.zip
+package-lock.json
+
+
+# folders
+node_modules/
+.idea/
+.vscode/
+*.DS_Store
